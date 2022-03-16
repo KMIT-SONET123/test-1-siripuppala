@@ -1,8 +1,8 @@
 {
   "tests": [
     {
-      "name": "Hello test",
-      "setup": "npm install",
+      "name": "My Test",
+      "setup": "node",
       "run": "npm test",
       "input": "",
       "output": "",
